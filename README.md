@@ -61,7 +61,6 @@ Burger Builder
 * Auto-Open Markdown Preview
 * ES7 React/Redux/GraphQL/React-Native snippets
 * vscode-icons
-* Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 
 
