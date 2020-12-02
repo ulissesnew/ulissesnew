@@ -23,14 +23,7 @@
 </p>
 
 
-<!-- Github stats -->
-<p align="center">&nbsp;<img align="center" src="" alt="" /></p>
 
-<!-- Social media icons -->
-<p align="center">
-  <a href="" target="blank"><img align="center" src="" alt="" height="20" width="20" /></a>
-  <a href="" target="blank"><img align="center" src="" alt="" height="20" width="20" /></a>
-</p>
 
 
 My portfolio [ulissesnew](https://ulissesnewdev.netlify.app/) see my work.
