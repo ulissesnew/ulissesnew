@@ -18,8 +18,7 @@
  
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width='50px' height='50px'/>
   <img src="https://nodejs.org/static/images/logo.svg" alt="nodejs" width='50px' height='50px'/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width='50px' height='50px'/> 
-  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgresql" width='50px' height='50px'/>
+ 
   
 </p>
 
