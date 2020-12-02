@@ -2,7 +2,7 @@
 <h2 align="center">Hi, I'm Ulisses</h2>
 <h3 align="center">Front End Developer </h3>
 
-- 🌱 I’m currently spending efforts on **ReactJS, React Native and NodeJS**
+- 🌱 I’m currently spending efforts on **ReactJS, NodeJS,Python, Postgres**
 - 👨‍💻 Some of my projects are pinned below
 - 📫 How to reach me: **ulissesnewdev@gmail.com**
 - ⚡ Hobbies: **I  like of plants and animals**
