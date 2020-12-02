@@ -48,7 +48,7 @@ This app use React in  FRONT_END
 and Firebase in  BACK_END
 Burger Builder
 
-### Animal Friends 
+
 [Animal Friends ](https://ulissesnew.github.io/animal_friends/)
 List of contact of animals .
 
