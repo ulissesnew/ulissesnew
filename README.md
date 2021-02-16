@@ -7,21 +7,7 @@
 - 📫 How to reach me: **ulissesnewdev@gmail.com**
 - ⚡ Hobbies: **I  like of plants and animals**
 
-  <hr/>
-<p align="center" >
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width='50px' height='50px'/>
-   <img src="https://redux.js.org/img/redux.svg" alt="reactnative" width='50px' height='50px'/>
-  
-  <img src="https://img.icons8.com/color/48/000000/python.png" width='50px' height='50px'/>
- <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width='50px' height='50px'/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width='50px' height='50px'/>
  
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width='50px' height='50px'/>
-  <img src="https://nodejs.org/static/images/logo.svg" alt="nodejs" width='50px' height='50px'/>
- 
-  
-</p>
-
 
 
 
