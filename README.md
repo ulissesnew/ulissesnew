@@ -20,7 +20,7 @@ Personal site .
 [Burguer Builder](https://burger-shopping.firebaseapp.com)
 Store of  hamburger.
 
-[Smart Vision ](https://ulissesnew.github.io/smart_vision/)
+[Smart Vision ](https://smart-vision-app.netlify.app/)
 Detect faces in photos.
 
 [Animal Friends ](https://ulissesnew.github.io/animal_friends/)
