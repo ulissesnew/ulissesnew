@@ -2,7 +2,7 @@
 <h2 align="center">Hi, I'm Ulisses</h2>
 <h3 align="center">Full Stack Developer </h3>
 
-- 🌱 I’m work with **JavaScript, ReactJS, NodeJS, Postgres, MongoDB, Express**
+- 🌱 I’m work with **JavaScript, ReactJS, NodeJS, Postgres, MongoDB, Express, NestJS, AWS, Redis, Typescript **
 - 📫 How to reach me: **ulissesnewdev@gmail.com**
 
 
