@@ -4,7 +4,7 @@
 
 - 🌱 I’m work with **JavaScript, ReactJS, NodeJS, Postgres, MongoDB, Express, NestJS, AWS, Redis, Typescript **
 - 📫 How to reach me: **ulissesnewdev@gmail.com**
-
+- Learning Complete SQL and Databases Bootcamp: Zero to Mastery [2022]
 
 My portfolio [ulissesnew](https://ulissesnewdev.netlify.app/) see my work.
 
