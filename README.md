@@ -5,6 +5,8 @@
 ### Learning 💡
  - `Solidity` 
  - `Ethereum` 
+ - `Blockchain`
+ - `NFT`
 <div>
  <img align="center" height="30" width="40" src="https://ethereum.org/static/a110735dade3f354a46fc2446cd52476/db4de/eth-home-icon.webp" style="max-width: 100%;">
 
