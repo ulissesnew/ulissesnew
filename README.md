@@ -3,9 +3,9 @@
 <h3 align="center"> Developer </h3>
 
 ### Learning 💡
- - `Solidity`  [https://docs.soliditylang.org/en/v0.8.12/](https://docs.soliditylang.org/en/v0.8.12/)
+ - `Solidity`  [https://docs.soliditylang.org/en/v0.8.12/](https://docs.soliditylang.org/en/v0.8.12/){:target="_blank"}
    
- - `Ethereum` [https://ethereum.org/en/](https://ethereum.org/en/)
+ - `Ethereum` [https://ethereum.org/en/](https://ethereum.org/en/){:target="_blank"}
    
 
 
