@@ -3,9 +3,13 @@
 <h3 align="center"> Developer </h3>
 
 ### Learning 💡
- - `Solidity`  [https://docs.soliditylang.org/en/v0.8.12/](https://docs.soliditylang.org/en/v0.8.12/){:target="_blank"}
+ - `Solidity`  <a href="https://docs.soliditylang.org/en/v0.8.12/" >
+                  https://docs.soliditylang.org/en/v0.8.12/
+               </a>
    
- - `Ethereum` [https://ethereum.org/en/](https://ethereum.org/en/){:target="_blank"}
+ - `Ethereum`  <a href="https://ethereum.org/en/" >
+                 https://ethereum.org/en/
+               </a>
    
 
 
