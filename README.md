@@ -1,6 +1,6 @@
 
-<h2 align="center">Hi, I'm Ulisses</h2>
-<h3 align="center"> Developer </h3>
+<h2 align="center">Hi, I'm UNDEFINED</h2>
+<h3 align="center"> UNDEFINED </h3>
 
 ### Learning 💡
  - `Solidity` 
