@@ -6,10 +6,8 @@ I'm a developer with experience in AWS services.
 <ul>
  <li> APIS integration with AWS services. </li>
  <li> APIS integration with google cloud services. </li>
- <li> Complex authentication and authorization systems ( JWT, Cognito , Firebase, Keycloack ... ) </li>
  <li> NFT projects (blockchain) Ethereum , solidity .  </li>
  <li> REST APIS with NodeJS and Typescript  </li>
- <li> Database MongoDB, Postgres, MySQL </li>
  <li> SPA's with angular, react and typescript . </li>
 </ul>
 
