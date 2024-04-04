@@ -11,7 +11,7 @@ Hi, I'm Ulisses, a passionate Software Engineer specializing in web development 
 - **Blockchain**: Ethereum
 - **Other**: REST APIs, SPA Development
 - **RPA**:  AUtomation of process 
-
+- **CRM**:  BITRIX, PIPEDRIVE
 ## Featured Projects
 - **[Project Name]**: A brief description of the project. [Link to Project]
 - **[Another Project]**: Description of another key project. [Link to Project]
