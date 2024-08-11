@@ -24,7 +24,7 @@ As a software engineer, I'm always exploring new technologies and methodologies 
 
 ## Contact Me
 Feel free to reach out for collaborations or just a chat:
-- 📧 Email: [ulissesnewdev@gmail.com]
+- 📧 Email: []
 - 💼 LinkedIn: [LinkedIn Profile](Your LinkedIn URL)
 - 🐦 Twitter: [Twitter Handle](Your Twitter URL)
 
