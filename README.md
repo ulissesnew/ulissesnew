@@ -46,6 +46,13 @@ Sou um **Software Engineer especializado em Back-End**, com foco em **arquitetur
 </div>
 
 ---
+## 🐍 Snake Contribution
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ulissesnew/ulissesnew/output/github-contribution-grid-snake.svg" />
+</div>
+
+---
 
 ## 🌍 Onde me encontrar
 
